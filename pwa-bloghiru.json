@@ -1,8 +1,8 @@
 {
   "name": "Hiru404",
   "short_name": "Hiru404",
-  "scope": "https://hiru404.blogspot.com/",
-  "start_url": "https://hiru404.blogspot.com/",
+  "scope": "https://hiru404.web.id/",
+  "start_url": "https://hiru404.web.id/",
   "display": "standalone",
   "background_color": "#050b14",
   "theme_color": "#0d1722",
